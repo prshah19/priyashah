@@ -1,0 +1,23 @@
+h1{
+	color: teal;
+	font-size: 72px;
+	font-family: "Georgia", serif;
+}
+
+#shiny{
+color: indianred;
+font-size: 36px;
+}
+
+#smiley{
+	width: 50%;
+	margin-left:10;
+	border: 5px;
+	border-style: dashed;
+	border-color: coral;
+
+}
+
+#oprah{
+	width:70%;
+}
